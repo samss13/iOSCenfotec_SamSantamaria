@@ -1,0 +1,5 @@
+Enunciado del proyecto iOS Cenfotec
+
+Nombre: Planificación y seguimiento de proyectos
+
+El proyecto consiste en una aplicación que se encargará de la planificación y seguimiento de proyectos, la aplicación permitirá al usuario crear un proyecto nuevo especificando la identificación del proyecto, la descripción, personas encargadas, fechas iniciales y finales, horas estimadas, estado del proyecto, grupo de trabajo, horas consumidas y horas totales. Además, debe mostrar el listado de los proyectos y permitir al usuario agregar filtros. Debe permitirle al usuario poder modificar la información del proyecto, grupo de trabajo, horas consumidas y agregar notas importantes. También, se debe mostrar un detalle completo del proyecto. Se debe crear un mantenimiento para el grupo de trabajo. El sistema debe contar con un módulo donde el usuario pueda obtener gráficos de horas mensuales, por proyecto y recurso. 
